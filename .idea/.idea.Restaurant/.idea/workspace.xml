@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a527778-2d5e-4e1c-9932-726568de4704" name="Default Changelist" comment="" />
+    <list default="true" id="7a527778-2d5e-4e1c-9932-726568de4704" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Restaurant/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Restaurant/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/Pages/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/Pages/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/Restaurant.db" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/Restaurant.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/Views/Home/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/Views/Home/Create.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/Views/Home/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/Views/Home/Details.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/Views/Home/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/Views/Home/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/bin/Debug/netcoreapp3.0/Restaurant.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/bin/Debug/netcoreapp3.0/Restaurant.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/bin/Debug/netcoreapp3.0/Restaurant.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/bin/Debug/netcoreapp3.0/Restaurant.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Razor/Views/Home/Create.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Razor/Views/Home/Create.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Razor/Views/Home/Details.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Razor/Views/Home/Details.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Razor/Views/Home/Edit.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Razor/Views/Home/Edit.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Razor/Views/Home/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Restaurant.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Restaurant.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Restaurant.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Restaurant/obj/Debug/netcoreapp3.0/Restaurant.Views.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Restaurant/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
@@ -40,18 +60,20 @@
         <option value="$PROJECT_DIR$/Restaurant/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/Restaurant/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/Restaurant/Views/Home/Delete.cshtml" />
-        <option value="$PROJECT_DIR$/Restaurant/Views/Home/Details.cshtml" />
-        <option value="$PROJECT_DIR$/Restaurant/Views/Home/Edit.cshtml" />
         <option value="$PROJECT_DIR$/Restaurant/Models/RestaurantContext.cs" />
         <option value="$PROJECT_DIR$/Restaurant/Startup.cs" />
         <option value="$PROJECT_DIR$/Restaurant/Program.cs" />
         <option value="$PROJECT_DIR$/Restaurant/appsettings.json" />
-        <option value="$PROJECT_DIR$/Restaurant/Views/Home/Create.cshtml" />
         <option value="$PROJECT_DIR$/Restaurant/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Restaurant/Views/Home/Details.cshtml" />
+        <option value="$PROJECT_DIR$/Restaurant/Views/Home/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/Restaurant/Views/Home/Create.cshtml" />
+        <option value="$PROJECT_DIR$/Restaurant/Pages/Shared/_Layout.cshtml" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1X39Gdpim6Jf7mvbqwLflC9w6zy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -116,7 +138,7 @@
       <workItem from="1580268293970" duration="7277000" />
       <workItem from="1580277214141" duration="160000" />
       <workItem from="1580278942775" duration="533000" />
-      <workItem from="1580279577297" duration="3663000" />
+      <workItem from="1580279577297" duration="9498000" />
     </task>
     <servers />
   </component>
@@ -125,8 +147,20 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
