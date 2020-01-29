@@ -1,0 +1,37 @@
+﻿@model Restaurant.ViewsModels.HomeViewModel
+
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+
+
+<div>
+    <h2>WELCOME TO OUR FOOD SHOP</h2>
+    <div>
+        <div class="row">
+            @* @foreach (var resto in Model) *@
+            @foreach (var resto in Model.Restaurants)
+            {
+                <div class="col-md-4 mb-2">
+   
+                    <div class="card booking-card">
+
+                        <!-- Card image -->
+                        <div class="view overlay">
+                            <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQz2_q9zpZO3y1rZhXNlnUPoR8Q1vkZP1BCiOBgSiuWBCJz_gTj" alt="Card image cap">
+                            <div class="mask rgba-white-slight"></div>
+                        </div>
+
+                        <div class="card-body">
+                            <h4 class="card-title font-weight-bold">@Html.ActionLink(resto.Name, "Details", new {id = resto.Id})</h4>
+                            <div class="btn-group"><button type="button"  class="btn btn-outline-info" >@Html.ActionLink("Edit","Edit",new {id = resto.Id})</button> <button type="button" class="btn btn-danger">@Html.ActionLink("Delete","Delete",new {id = resto.Id})</button></div>
+                        </div>
+
+                    </div>
+         
+                </div>
+            }
+        </div>
+    </div>
+</div>
